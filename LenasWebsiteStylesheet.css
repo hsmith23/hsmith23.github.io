@@ -18,8 +18,8 @@ text-shadow: -1px -1px 0 #62cccc, 1px -1px 0 #62cccc, -1px 1px 0 #62cccc, 1px 1p
 p{ color:#62cccc;
 font-size: 18;
 font-family: 'Raleway', sans-serif;
-text-align: center;
 background-color: white;
+padding:10px;
 border:5px solid #62cccc;
 border-radius: 20px;
 }
