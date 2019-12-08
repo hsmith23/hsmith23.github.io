@@ -84,15 +84,15 @@ img {
 }
 
 .column1 {
-  flex: 26%;
+  flex: 28%;
   padding: 5px;
 }
 .column2 {
-  flex: 40%;
+  flex: 38%;
   padding: 5px;
 }
 .column3 {
-  flex: 26%;
+  flex: 28%;
   padding: 5px;
 }
 
